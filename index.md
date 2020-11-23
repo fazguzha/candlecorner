@@ -1,5 +1,5 @@
 <h1><strong>Welcome to Candle Corner</strong></h1>
-<h2><strong>Hand poured candles and wax melts</strong></h2>
+<h2><strong><p class="center">Hand poured candles and wax melts</strong></p></h2>
 
 You can use the [editor on GitHub](https://github.com/fazguzha/candlecorner/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
