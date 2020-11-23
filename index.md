@@ -1,5 +1,7 @@
-<h1><strong>Welcome to Candle Corner</strong></h1>
+<h1><strong>**Welcome to Candle Corner**</strong></h1>
 <h2><strong><p class="center">Hand poured candles and wax melts</strong></p></h2>
+
+Follow my [instagram](https://instagram.com/candlecornerleeds?igshid=fgngj9jc51hz) for updates and prizes
 
 You can use the [editor on GitHub](https://github.com/fazguzha/candlecorner/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
