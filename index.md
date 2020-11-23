@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+<header>## Welcome to Candle Corner</header>
+<h2><strong>Hand poured candles and wax melts</h2>
 
 You can use the [editor on GitHub](https://github.com/fazguzha/candlecorner/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
