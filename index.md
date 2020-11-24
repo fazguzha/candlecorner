@@ -1,3 +1,32 @@
+<link
+  rel="stylesheet"
+  href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+  integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"
+  crossorigin="anonymous"
+/>
+<div id="page-wrapper">
+  <header id="header">
+    <div class="logo">
+      <img
+        id="header-img"
+        src="https://flic.kr/p/2ka231E"
+        alt="candle corner logo"
+      />
+    </div>
+    <nav id="nav-bar">
+      <ul>
+        <li><a class="nav-link" href="#aboutus">About Us</a></li>
+        <li><a class="nav-link" href="#how-it-works">Candles</a></li>
+        <li><a class="nav-link" href="#pricing">Wax Melts</a></li>
+        <li><a class="nav-link" href="#pricing">Gift Sets</a></li>
+      </ul>
+      <h1><strong>Welcome to Candle Corner</strong></h1>
+    </nav>
+  </header>
+  <div class="container"></div>
+
+  <section id="hero">
+    <h2>Handcrafted, home-made masterpieces</h2>
 <h1><strong>**Welcome to Candle Corner**</strong></h1>
 <h2><strong><p class="center">Hand poured candles and wax melts</strong></p></h2>
 
