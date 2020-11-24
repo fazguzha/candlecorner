@@ -24,11 +24,9 @@
     </nav>
   </header>
   <div class="container"></div>
-
   <section id="hero">
     <h2>Handcrafted, home-made masterpieces</h2>
-<h1><strong>**Welcome to Candle Corner**</strong></h1>
-<h2><strong><p class="center">Hand poured candles and wax melts</strong></p></h2>
+<h2><strong><p class="center">Handcrafted, home-made hand poured candles and wax melts</strong></p></h2>
 
 Follow my [instagram](https://instagram.com/candlecornerleeds?igshid=fgngj9jc51hz) for updates and prizes
 
